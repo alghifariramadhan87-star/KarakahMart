@@ -78,4 +78,4 @@ data situs dihapus; tanpa opsi tersebut sesi berakhir saat tab browser ditutup.
 
 ## Lisensi
 
-ALFARASSTA
+ALFARASTA
