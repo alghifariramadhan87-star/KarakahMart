@@ -1,11 +1,11 @@
 # KarakahMart
 
-Etalase belanja responsif KarakahMart. Dibangun dengan HTML, CSS, dan JavaScript murni tanpa framework atau build step.
+E-commerce KarakahMart
 
 ## Struktur
 
 ```
-portfolio/
+Karakahmart/
 ├── index.html                 # Etalase toko KarakahMart
 ├── presentation.html          # Slide demo KarakahMart
 │
