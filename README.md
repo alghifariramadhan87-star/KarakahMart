@@ -31,33 +31,20 @@ Karakahmart/
 
 ## Fitur
 
-- Menu delapan pilihan tepat di bawah banner, termasuk semua produk dan tujuh kategori
-- 60 produk demo dan 15 rekomendasi acak campuran kategori per halaman, dengan empat halaman dan tombol keranjang yang selalu terlihat
+- 60 produk demo
 - Pencarian produk dengan pesan hasil yang aksesibel
 - Slider promo dengan tombol navigasi dan indikator slide
 - Halaman detail produk dengan informasi demo, katalog produk terkait, dan tombol beli sekarang
 - Keranjang tersimpan di browser dengan kontrol kuantitas dan hapus produk
 - Checkout simulasi dengan validasi alamat, struk pemeriksaan, lalu konfirmasi pesanan
 - Halaman masuk dan registrasi demo, opsi ingat saya, dan pemulihan kata sandi lokal; akun tersimpan sebagai JSON di browser
-- Logo KarakahMart dengan simbol tas belanja berinisial K dan wordmark biru-navy, digunakan pada header, footer, halaman login, dan favicon (`assets/favicon.svg`)
 - Halaman konfirmasi demo dengan tombol kembali ke beranda
-- Tema terang KarakahMart yang konsisten di semua halaman dan tidak berubah mengikuti preferensi perangkat
-- Navigasi keyboard, skip-link, dan status interaksi untuk pembaca layar
 
 ## Struktur kode
 
 Gaya dan interaksi toko dipisahkan ke file CSS dan JavaScript di `assets/`.
 Halaman presentasi memakai file khusus di folder yang sama. Tidak ada
 dependensi npm untuk menjalankan halaman.
-
-## Demo presentasi
-
-Jalankan server lokal seperti di atas, lalu buka `http://localhost:8000/presentation.html`.
-Navigasikan slide dengan tombol layar atau tombol panah kiri/kanan. Tekan `F`
-untuk layar penuh, lalu pilih **Mulai demo toko** untuk membuka alur belanja.
-Demo singkat yang disarankan: cari produk, buka detail, tambahkan ke keranjang,
-ubah jumlah, lalu tinjau checkout dan struk. Konfirmasi akhir hanya membuat
-ringkasan simulasi; tidak ada pembayaran atau pesanan yang dikirim.
 
 ## Catatan
 
