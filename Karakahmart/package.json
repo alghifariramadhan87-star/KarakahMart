@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-alghifari",
+  "version": "2.0.0",
+  "description": "Portofolio pribadi mahasiswa Teknik Informatika. HTML, CSS, dan JavaScript tanpa build step.",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "open": "start index.html"
+  },
+  "keywords": ["portfolio", "frontend", "vanilla-js", "css"],
+  "author": "Alghifari Ramadhan",
+  "license": "MIT"
+}
