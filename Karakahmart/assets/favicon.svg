@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="KarakahMart">
-  <rect width="40" height="40" rx="11" fill="#0798d2"/>
-  <path d="M11 15h18l-1.7 17H12.7L11 15Z" fill="#fff"/>
-  <path d="M15.5 16v-2.5a4.5 4.5 0 0 1 9 0V16" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.4"/>
-  <path d="M17 21v8m0-4 6-4m-6 4 6 4" fill="none" stroke="#0798d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"/>
-</svg>
